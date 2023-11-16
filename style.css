@@ -55,3 +55,16 @@ body {
     flex-flow: column wrap;
     width: 40%;
 }
+
+button {
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    font-size: 1.6rem;
+    padding: 8px;
+    border: 2px solid black;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
